@@ -1,0 +1,9 @@
+How to make this software to work?
+
+I have provided installation of it, but, if you want to do all manually, and edit source code, this is how.
+
+1st Create a folder C:\Fitness_Prog\
+2nd Place provided db.mdb into the folder //Access database, you can change everything in the source code if you like
+3rd Run it!
+
+Contact me if you might want password for the Access Database.
